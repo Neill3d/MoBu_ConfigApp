@@ -1,0 +1,4 @@
+D:\Work\MOPLUGS\_PythonStartup
+D:\Work\MOPLUGS\_PythonStartup_LIB
+D:\My Documents\GitHub\MoBu\PythonScripts\Lib
+D:\My Documents\GitHub\MoBu\PythonScripts\Tools
